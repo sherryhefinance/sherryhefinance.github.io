@@ -21,7 +21,7 @@ ninja.data = [{
           description: "I am the principal dancer of NTU Graduate Student Dance Crew. Here are some moments from my performances with my team.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/life/";
           },
         },{id: "news-presentation-the-36th-asian-finance-association-annual-conference-macau",
           title: 'Presentation: The 36th Asian Finance Association Annual Conference, Macau',
