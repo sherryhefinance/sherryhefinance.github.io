@@ -27,5 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div style="margin-bottom: 5em;"></div>
+
+
 I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg).
+
+
 My primary research interest lies in FinTech, investment, and intangible assets. Especially the question: how technologies reshape corporate financial activities and investor decision-making and so the financial market efficiency.
