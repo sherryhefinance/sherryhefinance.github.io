@@ -8,7 +8,7 @@ on:
   push:
     branches:
       - master
-      - main
+      - main9999999
 
 jobs:
   check:
