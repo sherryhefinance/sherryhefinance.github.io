@@ -179,7 +179,7 @@ To remove the blog, you have to:
 - remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
 - remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
 
-You can also:
+You can also: 
 
 - delete [\_includes/latest_posts.liquid](_includes/latest_posts.liquid)
 - delete [\_includes/related_posts.liquid](_includes/related_posts.liquid)
@@ -233,7 +233,7 @@ You can also:
 - delete [\_plugins/inspirehep-citations.rb](_plugins/inspirehep-citations.rb)
 - remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
 
-### Removing the repositories page
+### Removing the repositories page 
 
 To remove the repositories, you can:
 
