@@ -103,7 +103,7 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  life:
+  projects:
     output: true
     permalink: /:collection/:title/
 
