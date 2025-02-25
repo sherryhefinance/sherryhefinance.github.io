@@ -5,7 +5,7 @@ description: NTU Lunar New Year Celebration Concert 2025
 img: assets/img/1.jpg
 importance: 1
 category: Dance
-related_publications: true
+related_publications: false
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
