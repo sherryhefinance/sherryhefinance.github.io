@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>GAIA ABS-04-038</p>
     <p>Nanyang Business School</p>
-    <p>91 Nanyangh Avenue 639956</p>
+    <p>91 Nanyang Avenue 639956</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
