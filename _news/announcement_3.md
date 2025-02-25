@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation: SINGAPORE SCHOLARS SYMPOSIUM 2024
+Presentation: SINGAPORE SCHOLARS SYMPOSIUM 2024, Singapore

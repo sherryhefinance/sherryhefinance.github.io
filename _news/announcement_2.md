@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation: [Australasian Finance & Banking Conference 2024](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference)
+Presentation: [Australasian Finance & Banking Conference 2024](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference), Sydney
