@@ -431,16 +431,22 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_2-copy/";
+            },},{id: "news-presentation-the-36th-asian-finance-association-annual-conference",
+          title: 'Presentation: The 36th Asian Finance Association Annual Conference',
+          description: "",
+          section: "News",},{id: "news-presentation-singapore-scholars-symposium-2024",
+          title: 'Presentation: SINGAPORE SCHOLARS SYMPOSIUM 2024',
+          description: "",
+          section: "News",},{id: "news-presentation-australasian-finance-amp-amp-banking-conference-2024",
+          title: 'Presentation: Australasian Finance &amp;amp;amp; Banking Conference 2024',
+          description: "",
+          section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-2025",
+          title: 'Presentation: 15th Financial Markets and Corporate Governance Conference 2025',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
