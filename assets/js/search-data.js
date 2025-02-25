@@ -503,13 +503,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/sherry-h-46a56b12b", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.douyin.com/user/MS4wLjABAAAA0ZkCt_W4UD9LmQa2HPtZp1YiozTzV4qcvRupWSsI3JU", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
