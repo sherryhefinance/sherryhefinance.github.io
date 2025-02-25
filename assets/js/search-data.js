@@ -42,9 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-2025-changsha-invited-submission",
           title: 'Presentation: 15th Financial Markets and Corporate Governance Conference 2025, Changsha (Invited submission)',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-a-dream-of-red-mansions-promenade",
+          title: 'A Dream of Red Mansions - Promenade',
+          description: "NTU Lunar New Year Celebration Concert 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
