@@ -3,7 +3,7 @@ layout: page
 title: The Journey of a Legendary Landscape Painting
 description: NUS Lunar New Year Celebration Concert 2024
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: Dance
 related_publications: false
 ---
