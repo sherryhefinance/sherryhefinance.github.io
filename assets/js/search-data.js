@@ -39,7 +39,7 @@ ninja.data = [{
           title: 'A Dream of Red Mansions - Promenade',
           description: "NTU Lunar New Year Celebration Concert 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_projects/";
             },},{
         id: 'social-email',
         title: 'email',
