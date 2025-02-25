@@ -2,10 +2,10 @@
 layout: page
 title: life
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I am the principal dancer of NTU Graduate Student Dance Crew. Here are some moments from my performances with my team.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Dance]
 horizontal: false
 ---
 
