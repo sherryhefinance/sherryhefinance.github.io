@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-life",
           title: "life",
-          description: "A growing collection of your cool projects.",
+          description: "I am the principal dancer of NTU Graduate Student Dance Crew. Here are some moments from my performances with my team.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -40,7 +40,7 @@ ninja.data = [{
           title: 'Presentation: Australasian Finance &amp;amp;amp; Banking Conference 2024, Sydney',
           description: "",
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-2025-changsha-invited-submission",
-          title: 'Presentation: 15th Financial Markets and Corporate Governance Conference 2025, Changsha            Invited submission',
+          title: 'Presentation: 15th Financial Markets and Corporate Governance Conference 2025, Changsha (Invited submission)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
