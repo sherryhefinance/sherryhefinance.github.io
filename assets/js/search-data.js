@@ -35,14 +35,14 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-invited-submission-changsha",
           title: 'Presentation: 15th Financial Markets and Corporate Governance Conference (Invited submission), Changsha',
           description: "",
-          section: "News",},{id: "projects-a-dream-of-red-mansions-promenade",
-          title: 'A Dream of Red Mansions - Promenade',
-          description: "NTU Lunar New Year Celebration Concert 2025",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_projects/";
-            },},{id: "projects-the-journey-of-a-legendary-landscape-painting",
-          title: 'The Journey of a Legendary Landscape Painting',
-          description: "NUS Lunar New Year Celebration Concert 2024",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
