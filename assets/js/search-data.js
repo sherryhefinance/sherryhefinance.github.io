@@ -40,6 +40,11 @@ ninja.data = [{
           description: "NTU Lunar New Year Celebration Concert 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_projects/";
+            },},{id: "projects-the-journey-of-a-legendary-landscape-painting",
+          title: 'The Journey of a Legendary Landscape Painting',
+          description: "NUS Lunar New Year Celebration Concert 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
