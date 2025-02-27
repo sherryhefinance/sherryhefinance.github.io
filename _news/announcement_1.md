@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation: [15th Financial Markets and Corporate Governance Conference](http://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co.htm) (Invited submission), Changsha
+Presentation: [15th Financial Markets and Corporate Governance Conference](http://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co.htm) (Invited presentation), Changsha
