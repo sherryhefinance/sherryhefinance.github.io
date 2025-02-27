@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Lantern Festival Night
-description: We were invited by the Embassy of China in Singapore to perform.
+description: We were invited by the Embassy of the People’s Republic of China in Singapore to perform.
 img: assets/img/14.jpg
 importance: 3
 category: Dance
