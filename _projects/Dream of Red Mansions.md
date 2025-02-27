@@ -7,8 +7,6 @@ importance: 1
 category: Dance
 related_publications: false
 ---
-[video recording here](https://www.bilibili.com/video/BV14fApekEyp/?share_source=copy_web&vd_source=408d78eb4d506e6523360fe1084df2a1)
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
