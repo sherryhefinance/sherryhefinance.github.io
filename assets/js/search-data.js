@@ -35,21 +35,21 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-invited-submission-changsha",
           title: 'Presentation: 15th Financial Markets and Corporate Governance Conference (Invited submission), Changsha',
           description: "",
-          section: "News",},{id: "projects-dream-of-red-mansions",
-          title: 'Dream of Red Mansions',
-          description: "NTU Lunar New Year Celebration Concert 2025",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_projects/";
-            },},{id: "projects-a-mere-touch-of-green",
+          section: "News",},{id: "projects-a-mere-touch-of-green",
           title: 'A Mere Touch of Green',
           description: "NUS Lunar New Year Celebration Concert 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/A-Mere-Touch-of-Green/";
+            },},{id: "projects-dream-of-red-mansions",
+          title: 'Dream of Red Mansions',
+          description: "NTU Lunar New Year Celebration Concert 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Dream-of-Red-Mansions/";
             },},{id: "projects-the-lantern-festival-night",
           title: 'The Lantern Festival Night',
           description: "We were invited by the Embassy of the People’s Republic of China in Singapore to perform.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/The-Lantern-Festival-Night/";
             },},{
         id: 'social-email',
         title: 'email',
