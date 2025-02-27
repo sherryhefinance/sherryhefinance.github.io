@@ -47,7 +47,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-the-lantern-festival-night",
           title: 'The Lantern Festival Night',
-          description: "We were invited by the Embassy of China in Singapore to perform.",
+          description: "We were invited by the Embassy of the People’s Republic of China in Singapore to perform.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
