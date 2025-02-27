@@ -45,6 +45,11 @@ ninja.data = [{
           description: "NUS Lunar New Year Celebration Concert 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-the-lantern-festival-night",
+          title: 'The Lantern Festival Night',
+          description: "We were invited by the Embassy of China in Singapore to perform.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
