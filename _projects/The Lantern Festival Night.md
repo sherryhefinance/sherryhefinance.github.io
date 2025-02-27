@@ -8,7 +8,7 @@ category: Dance
 related_publications: false
 ---
 
-On 25th Jan 2025, we were invited by the Embassy of China in Singapore to perform.
+25th Jan 2025
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
