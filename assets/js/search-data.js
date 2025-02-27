@@ -35,12 +35,7 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-invited-presentation-changsha",
           title: 'Presentation: 15th Financial Markets and Corporate Governance Conference (Invited presentation), Changsha',
           description: "",
-          section: "News",},{id: "projects-a-mere-touch-of-green",
-          title: 'A Mere Touch of Green',
-          description: "NUS Lunar New Year Celebration Concert 2024",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/A-Mere-Touch-of-Green/";
-            },},{id: "projects-dream-of-red-mansions",
+          section: "News",},{id: "projects-dream-of-red-mansions",
           title: 'Dream of Red Mansions',
           description: "NTU Lunar New Year Celebration Concert 2025",
           section: "Projects",handler: () => {
