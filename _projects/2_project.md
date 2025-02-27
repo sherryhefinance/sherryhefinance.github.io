@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Journey of a Legendary Landscape Painting
+title: A Mere Touch of Green
 description: NUS Lunar New Year Celebration Concert 2024
 img: assets/img/13.jpg
 importance: 2

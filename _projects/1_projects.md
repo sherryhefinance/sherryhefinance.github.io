@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Dream of Red Mansions - Promenade
+title: Dream of Red Mansions
 description: NTU Lunar New Year Celebration Concert 2025
 img: assets/img/1.jpg
 importance: 1
