@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Sherry X. HE",
-    "label": "PhD Student in Finance",
+    "label": "PhD Candidate in Finance",
     "image": "",
     "email": "xinman001@e.ntu.edu.sg",
     "phone": "(65) 88072641",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "GAIA ABS-04-038, Nanyang Business School, 91 Nanyang Avenue",
+      "postalCode": "639956",
+      "city": "Singapore",
       "countryCode": "",
       "region": ""
     },
@@ -77,7 +77,7 @@
       "name": "CICPA",
       "date": "2019",
       "issuer": "Accounting and Audit",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "projects": [
@@ -92,47 +92,47 @@
     {
       "name": "Machine Learning",
       "level": "Proficient",
-      "icon": "fa-solid fa-hashtag" 
+      "icon": "fa-solid fa-robot" 
     },
 
     {
       "name": "Textual Analysis",
       "level": "Proficient",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-book"
     },
 
     {
       "name": "Stata",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-chart-bar"
     }
   ],
   "languages": [
     {
       "language": "Mandarin",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "Cantonese",
       "fluency": "Basic",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "Korean",
       "fluency": "Basic",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "interests": [
     {
       "name": "Dance",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-music",
       "keywords": [
         "I have performed on China Central Television (CCTV) as the lead dancer and have also been invited to perform by the Embassy of the People's Republic of China in Singapore."
 
