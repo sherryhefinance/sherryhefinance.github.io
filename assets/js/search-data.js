@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "The information on this page is accurate as of February 2025",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "news-presentation-the-36th-asian-finance-association-annual-conference-macau",
           title: 'Presentation: The 36th Asian Finance Association Annual Conference, Macau',
           description: "",
