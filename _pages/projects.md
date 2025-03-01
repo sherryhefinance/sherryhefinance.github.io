@@ -3,7 +3,7 @@ layout: page
 title: life
 permalink: /life/
 description: I am the principal dancer of NTU Graduate Student Dance Crew. Here are some moments from my performances with my team.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Dance]
 horizontal: false
