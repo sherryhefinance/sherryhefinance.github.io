@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-life",
-          title: "life",
-          description: "I am the principal dancer of NTU Graduate Student Dance Crew. Here are some moments from my performances with my team.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/life/";
-          },
         },{id: "news-presentation-the-36th-asian-finance-association-annual-conference-macau",
           title: 'Presentation: The 36th Asian Finance Association Annual Conference, Macau',
           description: "",
@@ -35,7 +28,12 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-15th-financial-markets-and-corporate-governance-conference-invited-presentation-changsha",
           title: 'Presentation: 15th Financial Markets and Corporate Governance Conference (Invited presentation), Changsha',
           description: "",
-          section: "News",},{id: "projects-dream-of-red-mansions",
+          section: "News",},{id: "projects-a-mere-touch-of-green",
+          title: 'A Mere Touch of Green',
+          description: "NUS Lunar New Year Celebration Concert 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A-Mere-Touch-of-Green/";
+            },},{id: "projects-dream-of-red-mansions",
           title: 'Dream of Red Mansions',
           description: "NTU Lunar New Year Celebration Concert 2025",
           section: "Projects",handler: () => {
