@@ -31,7 +31,7 @@
     },
     {
       "institution": "City University of Hong Kong",
-      "location": "Hong Kong, China",
+      "location": "Hong Kong",
       "area": "Professional Accounting and Corporate Governance",
       "studyType": "Master of Science",
       "startDate": "2020",
@@ -39,7 +39,7 @@
     },
     {
       "institution": "South China University of Technology",
-      "location": "Guangzhou, China",
+      "location": "Guangzhou",
       "area": "International Economics and Trade",
       "studyType": "Bachelor of Economics",
       "startDate": "2015",
@@ -87,7 +87,7 @@
       "highlights": ["with Tao Chen, Stephen Teng Sun, and Hong Zhang"],
       "startDate": "2024"
     }
-  ]
+  ],
   "skills": [
     {
       "name": "Machine Learning",
