@@ -1,0 +1,72 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sherry X. HE
+    - name: Email
+      value: xinman001@e.ntu.edu.sg
+    - name: Phone
+      value: (65) 88072641
+    - name: Languages
+      value: Mandarin (Native), English (Fluent), Cantonese (Basic), Korean (Basic)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Banking and Finance
+      institution: Nanyang Technological University, Singapore
+      year: 2022 - Present
+    - title: Master of Science in Professional Accounting and Corporate Governance
+      institution: City University of Hong Kong, Hong Kong, China
+      year: 2020 - 2021
+    - title: Bachelor of Economics in International Economics and Trade
+      institution: South China University of Technology, Guangzhou, China
+      year: 2015 - 2019
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Auditor
+      institution: Deloitte Touche Tohmatsu
+      year: 2019 - 2020
+
+- title: Research Papers
+  type: nested_list
+  contents:
+    - title: Ripple Through Garbage: The Impact of China's Solid Waste Import Ban on U.S. Firms
+      items:
+        - Co-authored with Tao Chen, Stephen Teng Sun, and Hong Zhang
+        - Published in 2024
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Research Student Scholarship, Nanyang Technological University
+    - year: 2017
+      items:
+        - The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition
+        - Secured 450 million RMB in funding
+    - year: 2017
+      items:
+        - Prize for Outstanding Contribution of Innovation and Entrepreneurship, South China University of Technology
+
+- title: Skills
+  type: list
+  contents:
+    - Proficient in **Machine Learning**
+    - Proficient in **Textual Analysis**
+    - Advanced **Stata**
+
+- title: Certifications
+  type: list
+  contents:
+    - CICPA - Accounting and Audit (Issued by Chinese Institute of Certified Public Accountants, 2019)
+
+- title: Other Interests
+  type: list
+  contents:
+    - **Dance**: 
+      - I have performed on **China Central Television (CCTV)** as the lead dancer.
+      - I have also been invited to perform by the **Embassy of the People's Republic of China in Singapore**.

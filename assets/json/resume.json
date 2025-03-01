@@ -22,13 +22,13 @@
   },
   "education": [
     {
-      "institution": "Nanyang Technologgical University",
+      "institution": "Nanyang Technological University",
       "location": "Singapore",
       "area": "Banking and Finance",
       "studyType": "PhD",
       "startDate": "2022",
       "endDate": "now"
-    }
+    },
     {
       "institution": "City University of Hong Kong",
       "location": "Hong Kong, China",
@@ -36,14 +36,14 @@
       "studyType": "Master of Science",
       "startDate": "2020",
       "endDate": "2021"
-    }
+    },
     {
       "institution": "South China University of Technology",
       "location": "Guangzhou, China",
       "area": "International Economics and Trade",
       "studyType": "Bachelor of Economics",
-      "startDate": "2019",
-      "endDate": "2015"
+      "startDate": "2015",
+      "endDate": "2019"
     }
   ],
   "work": [
@@ -59,13 +59,13 @@
       "title": "Research Student Scholarship",
       "date": "2022",
       "awarder": "Nanyang Technological University"
-    }
+    },
     {
       "title": "The 3rd China College Students' 'Internet+'Innovation and Entrepreneurship Competition",
       "date": "2017",
       "awarder": "Ministry of Education of the People's Republic of China",
       "summary": "We have secured 450 million RMB in funding."
-    }
+    },
     {
       "title": "Prize for Outstanding Contribution of Innovation and Entrepreneurship to South China University of Technology",
       "date": "2017",
@@ -93,13 +93,13 @@
       "name": "Machine Learning",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag" 
-    }
+    },
 
     {
       "name": "Textual Analysis",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag"
-    }
+    },
 
     {
       "name": "Stata",
@@ -117,12 +117,12 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
     {
       "language": "Cantonese",
       "fluency": "Basic",
       "icon": ""
-    }
+    },
     {
       "language": "Korean",
       "fluency": "Basic",
@@ -134,10 +134,10 @@
       "name": "Dance",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "I have performed on China Central Television (CCTV) as the lead dancer and have also been invited to perform by the Embassy of the People's Republic of China in Singapore.",
+        "I have performed on China Central Television (CCTV) as the lead dancer and have also been invited to perform by the Embassy of the People's Republic of China in Singapore."
 
       ]
     }
-  ],
+  ]
 
 }
