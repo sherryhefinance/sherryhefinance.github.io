@@ -25,9 +25,9 @@
       "institution": "Nanyang Technological University",
       "location": "Singapore",
       "area": "Banking and Finance",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2022",
-      "endDate": "now"
+      "endDate": "2026"
     },
     {
       "institution": "City University of Hong Kong",
@@ -46,7 +46,7 @@
       "endDate": "2019"
     }
   ],
-  "work": [
+  "work experience": [
     {
       "name": "Deloitte Touche Tohmatsu",
       "position": "Auditor",
@@ -61,7 +61,7 @@
       "awarder": "Nanyang Technological University"
     },
     {
-      "title": "The 3rd China College Students' 'Internet+'Innovation and Entrepreneurship Competition",
+      "title": "The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition",
       "date": "2017",
       "awarder": "Ministry of Education of the People's Republic of China",
       "summary": "We have secured 450 million RMB in funding."
@@ -74,9 +74,9 @@
   ],
   "certificates": [
     {
-      "name": "CICPA - Accounting and Audit",
-      "date": "2019-10",
-      "issuer": "Chinese Institute of Certified Public Accountants",
+      "name": "CICPA",
+      "date": "2019",
+      "issuer": "Accounting and Audit",
       "icon": "fa-solid fa-location-dot"
     }
   ],
