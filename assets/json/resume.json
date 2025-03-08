@@ -24,24 +24,24 @@
     {
       "institution": "Nanyang Technological University",
       "location": "Singapore",
-      "area": "Banking and Finance",
-      "studyType": "Doctor of Philosophy",
+      "area": "",
+      "studyType": "Doctor of Philosophy - Finance",
       "startDate": "2022",
       "endDate": "2026"
     },
     {
       "institution": "City University of Hong Kong",
       "location": "Hong Kong",
-      "area": "Professional Accounting and Corporate Governance",
-      "studyType": "Master of Science",
+      "area": "",
+      "studyType": "Master of Science - Accounting",
       "startDate": "2020",
       "endDate": "2021"
     },
     {
       "institution": "South China University of Technology",
       "location": "Guangzhou",
-      "area": "International Economics and Trade",
-      "studyType": "Bachelor of Economics",
+      "area": "",
+      "studyType": "Bachelor of Economics - Economics",
       "startDate": "2015",
       "endDate": "2019"
     }
