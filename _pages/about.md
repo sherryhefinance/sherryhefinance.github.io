@@ -27,7 +27,9 @@ announcements:
 <div style="margin-bottom: 5em;"></div>
 
 
-I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by Professor Junkoo Kang. My thesis advisory committee consists of Professor Hong Zhang (SMU), Professor Tao Chen (NTU), and Professor Qifei Zhu (NUS).
+I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by Professor Junkoo Kang. 
 
 
 My primary research interest lies in FinTech, investment, and intangible assets. Especially the question: how technologies reshape corporate financial activities and investor decision-making and so the financial market efficiency.
+
+I'm also interested in R&D and innovation.
