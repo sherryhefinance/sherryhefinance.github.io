@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-25 15:59:00-0400
+date: 2025-04-23 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Presentation: [The 36th Asian Finance Association Annual Conference](http://asianfa2024.org), Macau
+Presentation: [15th Financial Markets and Corporate Governance Conference (FMCG)](http://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co.htm) (Invited presentation), Changsha
