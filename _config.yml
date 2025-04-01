@@ -219,8 +219,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [HE]
-  first_name: [Sherry X., Sherry]
+  last_name: [He]
+  first_name: [Sherry X., Sherry, Sheery X]
 
   style: apa
   locale: en
