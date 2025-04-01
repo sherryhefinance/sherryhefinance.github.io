@@ -1,15 +1,16 @@
-"He":
-  - firstname: ["Sherry X.","Sherry"]
+"he":
+  - firstname: ["Sherry X.","Sherry","Sherry X"]
     url: https://sherry9359.github.io
 
-"Chen":
+"chen":
   - firstname: ["Tao"]
     url: https://dr.ntu.edu.sg/cris/rp/rp00935
 
-"Sun":
+"sun":
   - firstname: ["Stephen Teng"]
     url: https://www.cb.cityu.edu.hk/staff/tengsun/
 
-"Zhang":
+"zhang":
   - firstname: ["Hong"]
     url: https://business.smu.edu.sg/faculty/profile/6501/zhang-hong
+
