@@ -34,13 +34,13 @@
       institution: Deloitte Touche Tohmatsu
       year: 2019 - 2020
 
-- title: Research Papers
-  type: nested_list
-  contents:
-    - title: "Ripple Through Garbage: The Impact of China's Solid Waste Import Ban on U.S. Firms"
-      items:
-        - "Co-authored with Tao Chen, Stephen Teng Sun, and Hong Zhang"
-        - "Published in 2024"
+#- title: Research Papers
+ # type: nested_list
+  #contents:
+   # - title: "Ripple Through Garbage: The Impact of China's Solid Waste Import Ban on U.S. Firms"
+    #  items:
+     #   - "Co-authored with Tao Chen, Stephen Teng Sun, and Hong Zhang"
+      #  - "Published in 2024"
 
 - title: Honors and Awards
   type: time_table
