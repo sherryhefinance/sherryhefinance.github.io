@@ -29,7 +29,7 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-australasian-finance-amp-amp-banking-conference-2024-afbc-sydney",
           title: 'Presentation: Australasian Finance &amp;amp;amp; Banking Conference 2024 (AFBC), Sydney',
           description: "",
-          section: "News",},{id: "news-the-working-paper-ripple-through-garbage-the-impact-of-china-s-solid-waste-import-ban-on-u-s-firms-with-chen-tao-and-sun-stephen-teng-and-zhang-hong-won-the-best-paper-award-at-the-15th-financial-markets-and-corporate-governance-conference-fmcg",
+          section: "News",},{id: "news-the-working-paper-ripple-through-garbage-the-impact-of-china-s-solid-waste-import-ban-on-u-s-firms-with-chen-tao-sun-stephen-teng-and-zhang-hong-won-the-best-paper-award-at-the-15th-financial-markets-and-corporate-governance-conference-fmcg",
           title: 'The working paper Ripple Through Garbage: The Impact of China’s Solid Waste Import...',
           description: "",
           section: "News",},{id: "news-presentation-2025-china-international-conference-in-finance-cicf-shenzhen",
@@ -55,7 +55,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%78%69%6E%6D%61%6E%30%30%31@%65.%6E%74%75.%65%64%75.%73%67", "_blank");
+          window.open("mailto:%73%68%65%72%72%79%78%69%6E%79%61%6F%68%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
