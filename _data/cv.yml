@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Sherry X. HE
+      value: Sherry Xinyao HE
     - name: Email
-      value: xinman001@e.ntu.edu.sg
+      value: sherryxinyaohe@gmail.com
     - name: Phone
       value: (65) 88072641
     - name: Languages
@@ -45,6 +45,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+     - year: 2025
+      items:
+        - "Best Paper Award in Corporate Governance / Social Responsibility"
+        - "15th Financial Markets and Corporate Governance Conference" 
     - year: 2022
       items:
         - "Research Student Scholarship"
