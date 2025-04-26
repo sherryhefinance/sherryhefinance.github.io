@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='xinman001@e.ntu.edu.sg'>email</a>#<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='xinman001@e.ntu.edu.sg'>email</a> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
