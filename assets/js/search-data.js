@@ -65,6 +65,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/sherry-x-he-46a56b12b", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6959396", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
