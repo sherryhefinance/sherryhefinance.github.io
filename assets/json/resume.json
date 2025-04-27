@@ -104,6 +104,12 @@
       "name": "Stata",
       "level": "Advanced",
       "icon": "fa-solid fa-chart-line"
+    },
+
+    {
+      "name": "Latex",
+      "level": "Proficient",
+      "icon": "fa-solid fa-file-code"
     }
   ],
   "languages": [
