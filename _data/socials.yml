@@ -49,3 +49,7 @@ linkedin_username: sherry-x-he-46a56b12b
   #logo: https://img.88icon.com/download/jpg/20201118/bf896917a6cbbee4a6b3c38144910d84_512_512.jpg # can be png, svg, jpg
   #title: Douyin
   #url: https://www.douyin.com/user/MS4wLjABAAAA0ZkCt_W4UD9LmQa2HPtZp1YiozTzV4qcvRupWSsI3JU
+custom_social: # can be any name here other than the ones already defined above
+  logo: http://www.w3.org/2000/svg # can be png, svg, jpg
+  title: SSRN
+  url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6959396
