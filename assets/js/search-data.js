@@ -62,7 +62,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/sherry-x-he-46a56b12b", "_blank");
+          window.open("https://www.linkedin.com/in/sherry-he-46a56b12b", "_blank");
         },
       },{
         id: 'social-custom_social',
