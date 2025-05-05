@@ -30,6 +30,7 @@ announcements:
 I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by Professor Junkoo Kang. 
 
 
-My primary research interest lies in FinTech, investment, and intangible assets. Especially the question: how technologies reshape corporate financial activities and investor decision-making and so the financial market efficiency.
+My primary research interest lies in intangible capital, FinTech and cryptocurrencies. Especially the question: how technologies reshape corporate financial activities and investor decision-making and so the financial market efficiency.
 
-I'm also interested in R&D and innovation.
+
+I'm also familiar with the details of IFRS and GAAP, and would be glad to contribute to research on accounting standards.
