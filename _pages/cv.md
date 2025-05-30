@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 3
 cv_pdf: #example_pdf.pdf # you can also use external links here
-description: The information on this page is accurate as of February 2025
+description: The information on this page is accurate as of May 2025
 toc:
   sidebar: left
 ---
