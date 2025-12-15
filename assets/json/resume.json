@@ -46,15 +46,20 @@
       "endDate": "2019"
     }
   ],
-  "work": [
+
+  "funding&research grants": [
     {
-      "name": "Deloitte Touche Tohmatsu",
-      "position": "Auditor",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Department of Audit & Assurance"
+      "name": "NTU Research Scholarship",
+      "icon": "fa-solid fa-music",
+      "keywords": ["Full Scholarship,2022-2026"]
+    },
+    {
+      "name": "Industry-funded Research Grant on AI & Finance",
+      "icon": "fa-solid fa-music",
+      "keywords": ["300,000 RMB (~42,000 USD)"]
     }
   ],
+
   "awards": [
     {
       "title": "Best Paper Award in Corporate Governance / Social Responsibility",
@@ -79,6 +84,15 @@
     }
   ],
 
+  "work": [
+    {
+      "name": "Deloitte Touche Tohmatsu",
+      "position": "Auditor",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Department of Audit & Assurance"
+    }
+  ],
   "certificates": [
     {
       "name": "CICPA",
@@ -140,6 +154,7 @@
       "icon": "fa-solid fa-hashtag"
     }
   ],
+
   "interests": [
     {
       "name": "Dance(Chinese Classical & Ballet)",
