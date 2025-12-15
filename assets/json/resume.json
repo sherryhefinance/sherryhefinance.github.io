@@ -50,12 +50,12 @@
   "funding&research grants": [
     {
       "name": "NTU Research Scholarship",
-      "icon": "fa-solid fa-music",
+      "icon": "fa-solid fa-wallet",
       "keywords": ["Full Scholarship,2022-2026"]
     },
     {
       "name": "Industry-funded Research Grant on AI & Finance",
-      "icon": "fa-solid fa-music",
+      "icon": "fa-solid fa-sack-dollar",
       "keywords": ["300,000 RMB (~42,000 USD)"]
     }
   ],
@@ -152,17 +152,6 @@
       "language": "Korean",
       "fluency": "Basic",
       "icon": "fa-solid fa-hashtag"
-    }
-  ],
-
-  "interests": [
-    {
-      "name": "Dance(Chinese Classical & Ballet)",
-      "icon": "fa-solid fa-music",
-      "keywords": [
-        "I am the principal dancer of the NTU Graduate Student Dance Crew. I have performed as a lead dancer on China Central Television (CCTV) and was also invited to perform by the Embassy of the People's Republic of China in Singapore."
-
-      ]
     }
   ]
 
