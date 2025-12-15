@@ -82,8 +82,14 @@
   "certificates": [
     {
       "name": "CICPA",
-      "date": "2019",
-      "issuer": "Accounting and Audit, ",
+      "date": "2020",
+      "issuer": "Accounting and Audit,",
+      "icon": "fa-solid fa-scale-balanced"
+    },
+    {
+      "name": "HKICPA",
+      "date": "2021",
+      "issuer": "Associate Level,",
       "icon": "fa-solid fa-scale-balanced"
     }
   ],
