@@ -71,7 +71,7 @@
 
 - title: Certifications
   type: list
-  contents:
+  contents: 
     - "**CICPA - Accounting and Audit** (Issued by Chinese Institute of Certified Public Accountants, 2019)"
 
 # - title: Other Interests
@@ -83,7 +83,7 @@
 #         - "I have also been invited to perform by the **Embassy of the People's Republic of China in Singapore**."
 
 - title: Fundings
-  type: list
+  type: list_groups
   contents:
     - name: "**NTU Research Scholarship**"
       items:
