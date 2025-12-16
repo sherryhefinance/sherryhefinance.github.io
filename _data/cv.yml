@@ -82,7 +82,7 @@
 #         - "I have performed on **China Central Television (CCTV)** as the lead dancer."
 #         - "I have also been invited to perform by the **Embassy of the People's Republic of China in Singapore**."
 
-- title: Fundings
+- title: Funding
   type: list_groups
   contents:
     - name: "**NTU Research Scholarship**"
