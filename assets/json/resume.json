@@ -75,11 +75,6 @@
       "awarder": "15th Financial Markets and Corporate Governance Conference"
     },
     {
-      "title": "Research Student Scholarship",
-      "date": "2022",
-      "awarder": "Nanyang Technological University"
-    },
-    {
       "title": "The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition",
       "date": "2017",
       "awarder": "Ministry of Education of the People's Republic of China",
@@ -160,6 +155,25 @@
       "language": "Korean",
       "fluency": "Basic",
       "icon": "fa-solid fa-hashtag"
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "NTU Graduarte Student Dance Crew",
+      "location": "Singapore",
+      "position": "Chairperson",
+      "url": "https://blogs.ntu.edu.sg/sao-ntugsa/",
+      "startDate": "2022",
+      "endDate": "2026",
+      "summary": "I have performed on **China Central Television(CCTV)** as the lead dancer and have also been invited to perform by the **Embassy of the People's Republic of China in Singapore**."
+    },
+   {
+      "organization": "City University of Hong Kong",
+      "location": "Hong Kong",
+      "position": "Student Representative",
+      "startDate": "2020",
+      "endDate": "2021"
     }
   ]
 
