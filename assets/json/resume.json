@@ -50,21 +50,13 @@
   "funding": [
     {
       "name": "NTU Research Scholarship",
-      "icon": "fa-solid fa-wallet",
-      "items": [
-        {
-          "name": "Full Scholarship, 2022-2026"
-        }
-      ]
+      "date": "2022–2026",
+      "summary": "Full Scholarship"
     },
     {
       "name": "Industry-funded Research Grant on AI & Finance",
-      "icon": "fa-solid fa-sack-dollar",
-      "items": [
-        {
-          "name": "300,000 RMB (~42,000 USD)"
-        }
-      ]
+      "date": "2025",
+      "summary": "300,000 RMB (~42,000 USD)"
     }
   ],
 
