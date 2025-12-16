@@ -49,14 +49,14 @@
 
   "funding": [
     {
-      "name": "NTU Research Scholarship",
+      "title": "NTU Research Scholarship",
       "date": "2022–2026",
-      "highlight": "Full Scholarship"
+      "awarder": "Full Scholarship"
     },
     {
-      "name": "Industry-funded Research Grant on AI & Finance",
+      "title": "Industry-funded Research Grant on AI & Finance",
       "date": "2025",
-      "highlight": "300,000 RMB (~42,000 USD)"
+      "awarder": "300,000 RMB (~42,000 USD)"
     }
   ],
 
@@ -70,7 +70,7 @@
       "title": "The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition",
       "date": "2017",
       "awarder": "Ministry of Education of the People's Republic of China",
-      "highlight": "In the year of the competition, our project raised a cumulative RMB 450 million in equity financing."
+      "summary": "·In the year of the competition, our project raised a cumulative RMB 450 million in equity financing."
     },
     {
       "title": "Prize for Outstanding Contribution of Innovation and Entrepreneurship",
