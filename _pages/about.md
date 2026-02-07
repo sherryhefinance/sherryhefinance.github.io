@@ -27,7 +27,7 @@ announcements:
 <div style="margin-bottom: 5em;"></div>
 
 
-I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Professor Junkoo Kang](https://dr.ntu.edu.sg/cris/rp/rp01010), [Professor Tao Chen](https://dr.ntu.edu.sg/cris/rp/rp00935), [Professor Xin Chang](https://dr.ntu.edu.sg/entities/person/Chang-Xin), and [Professor Hong Zhang](https://business.smu.edu.sg/faculty/profile/6501/zhang-hong),  
+I'm a Ph.D. candidate in Banking & Finance at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by Professor [Junkoo Kang](https://dr.ntu.edu.sg/cris/rp/rp01010), Professor [Tao Chen](https://dr.ntu.edu.sg/cris/rp/rp00935), Professor [Xin Chang](https://dr.ntu.edu.sg/entities/person/Chang-Xin), and Professor [Hong Zhang](https://business.smu.edu.sg/faculty/profile/6501/zhang-hong),  
 
 My primary research interest lies in **intangible capital**, **FinTech** and **machine learning**. Especially the question: how technologies reshape corporate financial activities and investor decision-making and so the financial market efficiency.
 
