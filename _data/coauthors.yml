@@ -1,6 +1,8 @@
 "he":
   - firstname: ["Sherry","Sherry Xinyao"]
     url: https://sherry9359.github.io
+  - firstname: ["Zhiheng"]
+    url: https://www.zhihenghe.com
 
 "chen":
   - firstname: ["Tao"]
@@ -10,10 +12,6 @@
   - firstname: ["Stephen Teng"]
     url: https://www.cb.cityu.edu.hk/staff/tengsun/
 
-"zhang":
-  - firstname: ["Hong"]
-    url: https://business.smu.edu.sg/faculty/profile/6501/zhang-hong
-
 "you":
   - firstname: ["Yang"]
     url: https://www.hkubs.hku.hk/people/yang-you/
@@ -21,14 +19,9 @@
 "wang":
   - firstname: ["Qinyun"]
     url: https://www.nber.org/people/yunqin_wang?page=1&perPage=50
-
-"wang":
   - firstname: ["Xuebin"]
     url: https://www.nber.org/people/xuebin_wang?page=1&perPage=50
 
-"he":
-  - firstname: ["Zhiheng"]
-    url: https://www.zhihenghe.com
 
 "kang":
   - firstname: ["Jun-Koo"]
@@ -37,6 +30,8 @@
 "zhang":
   - firstname: ["Bohui"]
     url: https://sme.cuhk.edu.cn/en/teacher/160
+  - firstname: ["Hong"]
+    url: https://business.smu.edu.sg/faculty/profile/6501/zhang-hong
   
 "zhao":
   - firstname: ["Xiaofeng"]
