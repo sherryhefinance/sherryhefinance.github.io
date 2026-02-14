@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>GAIA ABS-04-038</p>
+    <p>ABS-04-038</p>
     <p>Nanyang Business School</p>
     <p>91 Nanyang Avenue 639956</p>
 
