@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation: [The 36th Asian Finance Association Annual Conference (AsianFA)](http://asianfa2024.org), Macau China
+Presentation: [The 36th Asian Finance Association Annual Conference (AsFA)](http://asianfa2024.org), Macau
