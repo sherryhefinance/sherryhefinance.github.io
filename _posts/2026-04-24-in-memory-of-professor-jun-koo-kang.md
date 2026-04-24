@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Memory of Professor Jun-Koo Kang"
-date: 2026-04-24
+date: 2026-04-24 22:40:16
 description: "In memory of my supervisor, Professor Jun-Koo Kang."
 featured: true
 ---
