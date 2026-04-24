@@ -8,7 +8,7 @@ featured: true
 
 I was deeply saddened to learn that my supervisor, Professor Jun-Koo Kang, passed away this morning in Korea. The news came so suddenly that it is still difficult to fully process.
 
-Among those who knew us, many believed that I would be his last PhD student—that he would retire after training me. I never took that statement seriously before. Now, it is something I find myself unable to forget.
+Many people in our field believed that I would be his last PhD student and that he would retire after supervising me.. I never took that statement seriously before. Now, it is something I find myself unable to forget.
 
 I joined Nanyang Technological University in the fall of 2022 to begin my PhD. Professor Kang showed great interest in the research proposal I submitted in his class, and I did not hesitate to choose him as my advisor. That decision marked the beginning of my academic journey.
 
@@ -25,4 +25,5 @@ There is little I can do now except to continue the work he cared about with the
 What he taught me—about research, and about what it means to be a scholar—will remain with me in everything I do.
 
 Xinyao HE
+
 24Apr2026
