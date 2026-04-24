@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-presentation-the-36th-asian-finance-association-annual-conference-asfa-macau",
+        },{id: "post-in-memory-of-professor-jun-koo-kang",
+      
+        title: "In Memory of Professor Jun-Koo Kang",
+      
+      description: "In memory of my supervisor, Professor Jun-Koo Kang.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2026/04/24/in-memory-of-professor-jun-koo-kang.html";
+        
+      },
+    },{id: "news-presentation-the-36th-asian-finance-association-annual-conference-asfa-macau",
           title: 'Presentation: The 36th Asian Finance Association Annual Conference (AsFA), Macau',
           description: "",
           section: "News",},{id: "news-presentation-australasian-finance-amp-amp-banking-conference-2024-afbc-sydney",
