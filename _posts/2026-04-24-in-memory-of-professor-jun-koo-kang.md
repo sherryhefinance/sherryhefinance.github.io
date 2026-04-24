@@ -3,7 +3,7 @@ layout: post
 title: "In Memory of Professor Jun-Koo Kang"
 date: 2026-04-24
 description: "In memory of my supervisor, Professor Jun-Koo Kang."
-featured: false
+featured: true
 ---
 
 I was deeply saddened to learn that my supervisor, Professor Jun-Koo Kang, passed away this morning in Korea. The news came so suddenly that it is still difficult to fully process.
