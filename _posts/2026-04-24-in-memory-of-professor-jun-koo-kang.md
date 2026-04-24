@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Memory of Professor Jun-Koo Kang"
-date: 2026-04-24 22:40:16
+date: 2026-04-24
 description: "In memory of my supervisor, Professor Jun-Koo Kang."
 featured: false
 ---
@@ -23,3 +23,6 @@ In our last online meeting, I was looking forward to seeing him again at a confe
 There is little I can do now except to continue the work he cared about with the same seriousness and dedication he showed. I will do my best to carry forward the papers we worked on together and bring them to completion. 
 
 What he taught me—about research, and about what it means to be a scholar—will remain with me in everything I do.
+
+Xinyao HE
+24Apr2026
