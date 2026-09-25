@@ -32,9 +32,15 @@
     url: https://sme.cuhk.edu.cn/en/teacher/160
   - firstname: ["Hong"]
     url: https://business.smu.edu.sg/faculty/profile/6501/zhang-hong
+  - firstname: ["Zilong"]
+    url: https://person.zju.edu.cn/en/zilzhang#965233
   
 "zhao":
   - firstname: ["Xiaofeng"]
     url: https://scholars.ln.edu.hk/en/persons/xiaofeng-zhao/
+  
+"lai":
+  - firstname: ["Jianming"]
+    url: https://benjamindaoson.github.io/daoson_website/
   
   
