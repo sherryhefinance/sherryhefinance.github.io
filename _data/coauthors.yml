@@ -1,6 +1,6 @@
 "he":
   - firstname: ["Sherry","Sherry Xinyao"]
-    url: https://sherry9359.github.io
+    url: https://sherryhefinance.github.io
   - firstname: ["Zhiheng"]
     url: https://www.zhihenghe.com
 
@@ -41,7 +41,7 @@
   
 "daoson":
   - firstname: ["Benjamin"]
-    url: https://benjamindaoson.github.io/daoson_website/
+    url: https://benjamindaoson.github.io/daoson_website/?lang=en
   
 "luo":
   - firstname: ["Shouyi"]
@@ -55,3 +55,7 @@
   - firstname: ["Jingwei"]
     url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=12226549
   
+
+"hu":
+  - firstname: ["Wenbin"]
+    url: https://orcid.org/0000-0001-5361-1401
